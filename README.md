@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/f1je
-dc   $  @f1je
+dc   $ @f1je
 srv  $ discord.gg/DPdcz3BfSy
 gns  $ guns.lol/2b6
 ```
